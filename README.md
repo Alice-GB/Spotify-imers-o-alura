@@ -1,6 +1,3 @@
-Aqui está o resumo adaptado para o seu projeto de replicação visual do Spotify, considerando as informações fornecidas sobre os arquivos CSS, JavaScript e HTML:
-
----
 
 <p align="center">
 </p>
