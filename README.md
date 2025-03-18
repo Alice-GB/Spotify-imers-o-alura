@@ -132,6 +132,3 @@ O projeto foi desenvolvido com uma abordagem mobile-first, garantindo que o layo
 
 </details>
 
----
-
-Agora o resumo está adaptado para o seu projeto, incluindo detalhes sobre os arquivos CSS, JavaScript e HTML. Adapte conforme necessário! 😊
